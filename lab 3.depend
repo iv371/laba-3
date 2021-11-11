@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1636300984 source:f:\ одЅлоксЋабы\laba_numb_3\lab_3_c+\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+
+1636622814 source:d:\c++\lab3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+	<time.h>
+
